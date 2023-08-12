@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan Roka</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
-- 🔭 I’m currently working on **Book-Hostel**
+- 🔭 I’m currently looking for **WORK**
 
 - 👯 I’m looking to collaborate on **Development**
 
