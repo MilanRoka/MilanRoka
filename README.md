@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milan Roka</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
-- 🔭 I’m currently looking for **WORK**
+- 🔭 I’m currently **WORKING**
 
-- 👯 I’m looking to collaborate on **Development**
+- 👯 I’m looking for **Frontend Development**
 
 - 📫 How to reach me **milan.baba777@gmail.com**
 
